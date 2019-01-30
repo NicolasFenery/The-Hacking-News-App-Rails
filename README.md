@@ -1,24 +1,15 @@
-# README
+# Hacking News
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Description du Projet :pushpin:
 
-Things you may want to cover:
+Une application rails type message board à la Hacker News. L'appli lie quatre tableaux ; User && Links && Comment && Subcomment.\
+Dans cet app, les utilisateurs peuvent poster des liens. Les autres utilisateurs peuvent commenter les liens soumis, ou commenter les commentaires (sans aller plus loin qu'un commentaire de commentaire)
 
-* Ruby version
+# Diagramme :pencil2:
 
-* System dependencies
+![alt text](https://github.com/NicolasFenery/The-Hacking-News-App-Rails/blob/master/The%20Hacking%20News%20ERD.jpeg)
 
-* Configuration
 
-* Database creation
+# Réalisé par :fire:
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Nicolas && Manon Fenery
